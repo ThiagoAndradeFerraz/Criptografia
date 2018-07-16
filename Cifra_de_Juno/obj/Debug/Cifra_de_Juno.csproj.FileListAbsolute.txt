@@ -1,0 +1,10 @@
+C:\Users\Thiago\Documents\Meu repositório\Desenvolvimento\Projetos\Cifra_de_Juno\Cifra_de_Juno\bin\Debug\Cifra_de_Juno.exe.config
+C:\Users\Thiago\Documents\Meu repositório\Desenvolvimento\Projetos\Cifra_de_Juno\Cifra_de_Juno\bin\Debug\Cifra_de_Juno.exe
+C:\Users\Thiago\Documents\Meu repositório\Desenvolvimento\Projetos\Cifra_de_Juno\Cifra_de_Juno\bin\Debug\Cifra_de_Juno.pdb
+C:\Users\Thiago\Documents\Meu repositório\Desenvolvimento\Projetos\Cifra_de_Juno\Cifra_de_Juno\obj\Debug\Cifra_de_Juno.csprojAssemblyReference.cache
+C:\Users\Thiago\Documents\Meu repositório\Desenvolvimento\Projetos\Cifra_de_Juno\Cifra_de_Juno\obj\Debug\Cifra_de_Juno.Properties.Resources.resources
+C:\Users\Thiago\Documents\Meu repositório\Desenvolvimento\Projetos\Cifra_de_Juno\Cifra_de_Juno\obj\Debug\Cifra_de_Juno.csproj.GenerateResource.cache
+C:\Users\Thiago\Documents\Meu repositório\Desenvolvimento\Projetos\Cifra_de_Juno\Cifra_de_Juno\obj\Debug\Cifra_de_Juno.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Documents\Meu repositório\Desenvolvimento\Projetos\Cifra_de_Juno\Cifra_de_Juno\obj\Debug\Cifra_de_Juno.exe
+C:\Users\Thiago\Documents\Meu repositório\Desenvolvimento\Projetos\Cifra_de_Juno\Cifra_de_Juno\obj\Debug\Cifra_de_Juno.pdb
+C:\Users\Thiago\Documents\Meu repositório\Desenvolvimento\Projetos\Cifra_de_Juno\Cifra_de_Juno\obj\Debug\Cifra_de_Juno.TelaInicialForm.resources
